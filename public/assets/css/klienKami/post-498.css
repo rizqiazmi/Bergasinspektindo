@@ -1,0 +1,36 @@
+.elementor-498 .elementor-element.elementor-element-c110853 > .elementor-container{min-height:65vh;}.elementor-498 .elementor-element.elementor-element-c110853:not(.elementor-motion-effects-element-type-background), .elementor-498 .elementor-element.elementor-element-c110853 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://bergasinspektindo.com/wp-content/uploads/2023/10/BSI-Building.jpg");background-position:top left;background-repeat:no-repeat;background-size:cover;}.elementor-498 .elementor-element.elementor-element-c110853 > .elementor-background-overlay{background-color:#004E75;opacity:0.82;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-498 .elementor-element.elementor-element-c110853{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-498 .elementor-element.elementor-element-aaf3930{text-align:center;}.elementor-498 .elementor-element.elementor-element-aaf3930 .elementor-heading-title{color:#FFFFFF;font-family:"Manrope", Sans-serif;font-size:50px;font-weight:900;}.elementor-498 .elementor-element.elementor-element-d286f52{font-family:"Barlow", Sans-serif;font-size:18px;font-weight:300;color:#FFFFFF;}.elementor-498 .elementor-element.elementor-element-d286f52 a{color:#FFFFFF;}.elementor-498 .elementor-element.elementor-element-d286f52 > .elementor-widget-container{margin:-10px 0px 0px 0px;}.elementor-498 .elementor-element.elementor-element-796e27d:not(.elementor-motion-effects-element-type-background), .elementor-498 .elementor-element.elementor-element-796e27d > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#172B56;}.elementor-498 .elementor-element.elementor-element-796e27d{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:100px 0px 130px 0px;}.elementor-498 .elementor-element.elementor-element-796e27d > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-498 .elementor-element.elementor-element-63e1145 > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-498 .elementor-element.elementor-element-3e6875c .elementor-heading-title{color:#09A4D7;font-family:"Roboto", Sans-serif;font-size:14px;font-weight:500;text-transform:uppercase;letter-spacing:2px;}.elementor-498 .elementor-element.elementor-element-f9857cf .elementor-heading-title{color:#FFFFFF;font-family:"Roboto", Sans-serif;font-size:36px;font-weight:600;}.elementor-498 .elementor-element.elementor-element-969edef{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin-top:-110px;margin-bottom:0px;padding:0px 0px 70px 0px;}.elementor-498 .elementor-element.elementor-element-969edef > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-498 .elementor-element.elementor-element-e7664cf{--image-transition-duration:800ms;--content-text-align:center;--content-padding:20px;--content-transition-duration:800ms;--content-transition-delay:800ms;}@media(min-width:768px){.elementor-498 .elementor-element.elementor-element-bb62edd{width:71.288%;}.elementor-498 .elementor-element.elementor-element-d3b03c2{width:28.623%;}}@media(max-width:767px){.elementor-498 .elementor-element.elementor-element-aaf3930 .elementor-heading-title{font-size:35px;letter-spacing:0px;}.elementor-498 .elementor-element.elementor-element-796e27d{padding:70px 15px 0130px 15px;}.elementor-498 .elementor-element.elementor-element-f9857cf .elementor-heading-title{font-size:30px;}.elementor-498 .elementor-element.elementor-element-969edef{padding:0px 15px 70px 15px;}}/* Start custom CSS for heading, class: .elementor-element-3e6875c */.tx-line:after{
+    content: '';
+    width: 35px;
+    height: 2px;
+    background: #09A4D7;
+    position: absolute;
+    top: 45%;
+    left: 0px;
+}
+.tx-line{
+    padding-left: 50px
+}/* End custom CSS */
+/* Start custom CSS for gallery, class: .elementor-element-e7664cf */.e-gallery-image {
+    background-position: center center !important;
+    background-size: contain !important;
+    transform-origin: center;
+    background-repeat: no-repeat !important;
+}
+.e-gallery-item.elementor-gallery-item {
+    transition-property: all;
+    background: #fff;
+    height: 220px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+    padding: 37px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+}
+
+@media only screen and (max-width: 768px) {
+.e-gallery-item.elementor-gallery-item {
+    height: 140px;
+    padding: 30px;
+}
+}/* End custom CSS */
